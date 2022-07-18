@@ -6,7 +6,7 @@ Inspur Autodrive Team, MASTER (Multi-camerA Spatial and Temporal feature Extract
 
 |   Model   | mAP  | NDS  |
 | :-------: | :--: | :--: |
-| Inspur-MASTER-1600 |46.52 | 57.20 |
+| Inspur-MASTER-1600 |46.85 | 57.47 |
 
 ### 3D Object Detection (on nuScenes val)
 
